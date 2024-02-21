@@ -47,7 +47,7 @@ h1 {
 h3{
     font-size: 16px;
 }
-h3:hover {
+summary:hover h3{
     color: var(--light-color3);
 }
 
