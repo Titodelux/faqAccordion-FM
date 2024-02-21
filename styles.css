@@ -23,7 +23,6 @@
 body {
     height: 100vh;
     display: flex;
-    align-items: center;
     justify-content: center;   
     background-color: var(--light-color2);
     background-image: url(./assets/images/background-pattern-mobile.svg);
@@ -32,7 +31,7 @@ body {
 main {
     max-width: 600px;
     height: fit-content;
-    margin: 1.5rem;
+    margin: 142px 1.5rem;
     padding: clamp(1.5rem, 4vw, 2.5rem);
     padding-bottom: 0;
     border-radius: 0.5rem;
