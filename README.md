@@ -50,7 +50,7 @@ I learned a lot about the Details element, both how to use it and make it possib
 
 ### Continued development
 
-Crear una sombra alrededor de main
+Crear una sombra alrededor de main, usa el elemento header para hacer mas semántico la web, para reemplazarlo con el div
 
 ### Useful resources
 
