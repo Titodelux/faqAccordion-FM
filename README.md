@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://titodelux.github.io/faqAccordion-FM/)
+- Solution URL: [Solution Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-faq-accordion-with-details-animation-JmWMDNnbaJ)
+- Live Site URL: [Live Site](https://titodelux.github.io/faqAccordion-FM/)
 
 ## My process
 
@@ -46,14 +46,15 @@ Users should be able to:
 
 ### What I learned
 
-Aprendí mucho sobre el elemento <Details>, tanto como utilizarlo y hacer posible que en el acordeón solo se muestre uno a la vez, a como estilizarlo e incluso animarlo. También puse en practica la propiedad "Clamp()" de CSS para poder tener mejor responsividad a todos los dispositivos.
+I learned a lot about the Details element, both how to use it and make it possible for only one to be displayed in the accordion at a time, to how to stylize it and even animate it. I also put into practice the CSS "Clamp()" property to be able to have better responsiveness to all devices.
 
 ### Continued development
 
+Crear una sombra alrededor de main
 
 ### Useful resources
 
-- [How To Styling Details Element](https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/) - Este blog en particular me ayudó mucho para entender cómo estilizar el elemento <Details>.
+- [How To Styling Details Element](https://css-tricks.com/two-issues-styling-the-details-element-and-how-to-solve-them/) - This particular blog helped me a lot in understanding how to style the Details element.
 
 ## Author
 
